@@ -162,7 +162,7 @@ Starting 1</text>
         <maintype>Goal</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>You may pay void ten cards with cost {2} or less from your hand and wheel. If you do, achieve this goal.</text>
+      <text>You may void ten cards with cost {2} or less from your hand and wheel. If you do, achieve this goal.</text>
     </card>
     <card>
       <name>Skilled Assistant</name>
@@ -261,6 +261,77 @@ Starting 2</text>
       <text>+2 Actions
 Discard a card.
 Starting 1</text>
+    </card>
+    <card>
+      <name>Philosopher</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Normal</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Draw two cards, then discard a card.</text>
+    </card>
+    <card>
+      <name>Jury</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Normal</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Action
++{X}, where X is the number of cards you’ve voided this turn.</text>
+    </card>
+    <card>
+      <name>Executioner</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Normal</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Void up to three cards you have in play.</text>
+    </card>
+    <card>
+      <name>Goal of Ingenuity</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Goal</type>
+        <maintype>Goal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>If you have ten or more other cards in play, achieve this goal.</text>
+    </card>
+    <card>
+      <name>Diviner</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Normal</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Action
++1 Buy
++{1}
+Choose one —
+• Look at the top card of your deck.
+• Name a card. Reveal the top card of your deck. If the named card is revealed, put it into your hand.</text>
     </card>
 
     <!-->Tokens</-->
