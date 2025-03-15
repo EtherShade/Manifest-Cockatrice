@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>MTA</name>
+      <longname>Manifest Alpha</longname>
+      <settype>Manifest</settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Assistant</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Normal</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+2 Actions
+Starting 1</text>
+    </card>
+    <card>
+      <name>Tin Coin</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Normal - Coin</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Action
++{1}
+Starting 4</text>
+    </card>
+    <card>
+      <name>Peasant</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Normal</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Action
+Draw a card.
+Starting 4</text>
+    </card>
+    <card>
+      <name>Judge</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Normal</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Void a card you have in play.
+Choose one —
+• +1 Action
+• +{1}</text>
+    </card>
+    <card>
+      <name>Shopkeep</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Normal</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Action
++1 Buy
+Starting 2</text>
+    </card>
+    <card>
+      <name>Lead Coin</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Normal - Coin</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+{2}
+Starting 1</text>
+    </card>
+    <card>
+      <name>Copper Coin</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Normal - Coin</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Action
++{2}</text>
+    </card>
+    <card>
+      <name>Goal of Economy</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Goal</type>
+        <maintype>Goal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may pay 6 buys. If you do, achieve this goal.</text>
+    </card>
+    <card>
+      <name>Goal of Wealth</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Goal</type>
+        <maintype>Goal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may pay {10}. If you do, achieve this goal.</text>
+    </card>
+    <card>
+      <name>Goal of Progress</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Goal</type>
+        <maintype>Goal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may pay 6 actions. If you do, achieve this goal.</text>
+    </card>
+    <card>
+      <name>Goal of Filth</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Goal</type>
+        <maintype>Goal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may pay void ten cards with cost {2} or less from your hand and wheel. If you do, achieve this goal.</text>
+    </card>
+    <card>
+      <name>Skilled Assistant</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Normal</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+2 Actions
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Iron Coin</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Normal - Coin</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+{3}</text>
+    </card>
+    <card>
+      <name>Silver Coin</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Normal - Coin</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Action
++{3}</text>
+    </card>
+    <card>
+      <name>Gold Coin</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>Normal - Coin</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+{4}</text>
+    </card>
+    <card>
+      <name>Platinum Coin</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>7</manacost>
+        <cmc>7</cmc>
+        <type>Normal - Coin</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Action
++{4}</text>
+    </card>
+    <card>
+      <name>Fool&apos;s Coin</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Normal - Coin</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+{1}
+Void this.
+Starting 2</text>
+    </card>
+    <card>
+      <name>Unskilled Assistant</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Normal</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+2 Actions
+Discard a card.
+Starting 1</text>
+    </card>
+
+    <!-->Tokens</-->
+
+
+  </cards>
+</cockatrice_carddatabase>
