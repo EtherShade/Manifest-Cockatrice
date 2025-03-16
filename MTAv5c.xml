@@ -39,21 +39,6 @@ Starting 2</text>
 Starting 4</text>
     </card>
     <card>
-      <name>Peasant</name>
-      <set rarity="common">MTA</set>
-      <prop>
-        <colors></colors>
-        <manacost>1</manacost>
-        <cmc>1</cmc>
-        <type>Normal</type>
-        <maintype>Normal</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>+1 Action
-Draw a card.
-Starting 4</text>
-    </card>
-    <card>
       <name>Judge</name>
       <set rarity="common">MTA</set>
       <prop>
@@ -122,7 +107,7 @@ Starting 2</text>
         <maintype>Goal</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>You may pay 6 buys. If you do, achieve this goal.</text>
+      <text>You may pay 5 buys. If you do, achieve this goal.</text>
     </card>
     <card>
       <name>Goal of Wealth</name>
@@ -148,7 +133,7 @@ Starting 2</text>
         <maintype>Goal</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>You may pay 6 actions. If you do, achieve this goal.</text>
+      <text>You may pay 5 actions. If you do, achieve this goal.</text>
     </card>
     <card>
       <name>Goal of Filth</name>
@@ -298,21 +283,20 @@ Starting 2</text>
         <maintype>Goal</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>If you have six or more other cards in play, achieve this goal.</text>
+      <text>If you have eleven or more other cards in play, achieve this goal.</text>
     </card>
     <card>
       <name>Diviner</name>
       <set rarity="common">MTA</set>
       <prop>
         <colors></colors>
-        <manacost>2</manacost>
-        <cmc>2</cmc>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
         <type>Normal</type>
         <maintype>Normal</maintype>
       </prop>
       <tablerow>1</tablerow>
       <text>+1 Action
-+1 Buy
 +{1}
 Choose one —
 • Look at the top card of your deck.
@@ -373,6 +357,104 @@ Starting 1</text>
       <tablerow>1</tablerow>
       <text>+1 Action
 Put a card from your wheel into your hand. If you can’t, draw a card.</text>
+    </card>
+    <card>
+      <name>Courier</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Normal</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Action
+Put up to two cards from your wheel on top of your deck.</text>
+    </card>
+    <card>
+      <name>Oracle</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Normal</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Action
+Look at the top three cards of your deck. Put one of them into your hand and the rest back on top in any order.</text>
+    </card>
+    <card>
+      <name>Fortune Teller</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Normal</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Action
++{1}
+Name a card. Reveal the top card of your deck. If the named card is revealed, put it into your hand.</text>
+    </card>
+    <card>
+      <name>Forceful Procurer</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>Normal - Attack</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Each opponent puts a card from their hand into your wheel.</text>
+    </card>
+    <card>
+      <name>Bureaucrat</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Normal - Attack Duration</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Choose one —
+• You don’t pay taxes this turn.
+• Each opponent’s tax is increased by 1 until the start of your next turn.</text>
+    </card>
+    <card>
+      <name>Guardian</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Normal - Duration</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Action
+Until the start of your next turn, attack cards don’t effect you.</text>
+    </card>
+    <card>
+      <name>Goal of Efficiency</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Goal</type>
+        <maintype>Goal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Draw two cards. If this made you shuffle, achieve this goal.</text>
     </card>
 
     <!-->Tokens</-->
