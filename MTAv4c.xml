@@ -21,10 +21,10 @@
       </prop>
       <tablerow>1</tablerow>
       <text>+2 Actions
-Starting 1</text>
+Starting 2</text>
     </card>
     <card>
-      <name>Tin Coin</name>
+      <name>Scrap Coin</name>
       <set rarity="common">MTA</set>
       <prop>
         <colors></colors>
@@ -95,8 +95,7 @@ Starting 2</text>
         <maintype>Normal</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>+{2}
-Starting 1</text>
+      <text>+{3}</text>
     </card>
     <card>
       <name>Copper Coin</name>
@@ -117,8 +116,8 @@ Starting 1</text>
       <set rarity="common">MTA</set>
       <prop>
         <colors></colors>
-        <manacost>5</manacost>
-        <cmc>5</cmc>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
         <type>Goal</type>
         <maintype>Goal</maintype>
       </prop>
@@ -130,8 +129,8 @@ Starting 1</text>
       <set rarity="common">MTA</set>
       <prop>
         <colors></colors>
-        <manacost>5</manacost>
-        <cmc>5</cmc>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
         <type>Goal</type>
         <maintype>Goal</maintype>
       </prop>
@@ -143,8 +142,8 @@ Starting 1</text>
       <set rarity="common">MTA</set>
       <prop>
         <colors></colors>
-        <manacost>5</manacost>
-        <cmc>5</cmc>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
         <type>Goal</type>
         <maintype>Goal</maintype>
       </prop>
@@ -156,8 +155,8 @@ Starting 1</text>
       <set rarity="common">MTA</set>
       <prop>
         <colors></colors>
-        <manacost>5</manacost>
-        <cmc>5</cmc>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
         <type>Goal</type>
         <maintype>Goal</maintype>
       </prop>
@@ -183,13 +182,13 @@ Draw a card.</text>
       <set rarity="common">MTA</set>
       <prop>
         <colors></colors>
-        <manacost>4</manacost>
-        <cmc>4</cmc>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
         <type>Normal - Coin</type>
         <maintype>Normal</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>+{3}</text>
+      <text>+{4}</text>
     </card>
     <card>
       <name>Silver Coin</name>
@@ -216,21 +215,22 @@ Draw a card.</text>
         <maintype>Normal</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>+{4}</text>
+      <text>+1 Action
++{4}</text>
     </card>
     <card>
       <name>Platinum Coin</name>
       <set rarity="common">MTA</set>
       <prop>
         <colors></colors>
-        <manacost>7</manacost>
-        <cmc>7</cmc>
+        <manacost>8</manacost>
+        <cmc>8</cmc>
         <type>Normal - Coin</type>
         <maintype>Normal</maintype>
       </prop>
       <tablerow>1</tablerow>
       <text>+1 Action
-+{4}</text>
++{5}</text>
     </card>
     <card>
       <name>Fool&apos;s Coin</name>
@@ -246,21 +246,6 @@ Draw a card.</text>
       <text>+{1}
 Void this.
 Starting 2</text>
-    </card>
-    <card>
-      <name>Unskilled Assistant</name>
-      <set rarity="common">MTA</set>
-      <prop>
-        <colors></colors>
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Normal</type>
-        <maintype>Normal</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>+2 Actions
-Discard a card.
-Starting 1</text>
     </card>
     <card>
       <name>Philosopher</name>
@@ -307,13 +292,13 @@ Starting 1</text>
       <set rarity="common">MTA</set>
       <prop>
         <colors></colors>
-        <manacost>5</manacost>
-        <cmc>5</cmc>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
         <type>Goal</type>
         <maintype>Goal</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>If you have ten or more other cards in play, achieve this goal.</text>
+      <text>If you have six or more other cards in play, achieve this goal.</text>
     </card>
     <card>
       <name>Diviner</name>
@@ -332,6 +317,62 @@ Starting 1</text>
 Choose one —
 • Look at the top card of your deck.
 • Name a card. Reveal the top card of your deck. If the named card is revealed, put it into your hand.</text>
+    </card>
+    <card>
+      <name>Banker</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Normal</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Action
++1 Buy
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Tin Coin</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Normal - Coin</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+{2}
+Starting 1</text>
+    </card>
+    <card>
+      <name>Steel Coin</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Normal - Coin</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+{5}</text>
+    </card>
+    <card>
+      <name>Messenger</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Normal</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Action
+Put a card from your wheel into your hand. If you can’t, draw a card.</text>
     </card>
 
     <!-->Tokens</-->
