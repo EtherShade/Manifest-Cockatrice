@@ -529,8 +529,8 @@ Create three Scrap Coin copies in your hand.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>+1 Action
-Manifest — 2 Smithing — Void this. If you do, create a Lead Coin copy in your hand.
-Manifest — 5 Alchemy — Void this. If you do, create a Gold Coin copy in your hand.</text>
+Manifest — 2 Smithing — Create a Lead Coin copy in your hand.
+Manifest — 5 Alchemy — Create a Gold Coin copy in your hand.</text>
       <related>Lead Coin</related>
       <related>Gold Coin</related>
     </card>
@@ -562,8 +562,8 @@ Starting 4</text>
       </prop>
       <tablerow>1</tablerow>
       <text>+1 Action
-Manifest — 1 Smithing — Void this. If you do, create a Tin Coin copy in your hand.
-Manifest — 3 Alchemy — Void this. If you do, create an Iron Coin copy in your hand.</text>
+Manifest — 1 Smithing — Create a Tin Coin copy in your hand.
+Manifest — 3 Alchemy — Create an Iron Coin copy in your hand.</text>
       <related>Tin Coin</related>
       <related>Iron Coin</related>
     </card>
@@ -688,7 +688,7 @@ Draw two cards.</text>
       <tablerow>1</tablerow>
       <text>+1 Action
 +1 Money
-Manifest — 2 Alchemy — Void this. If you do, create a Skilled Assistant copy in your wheel.
+Manifest — 2 Alchemy — Create a Skilled Assistant copy in your wheel.
 Starting 1</text>
       <related>Skilled Assistant</related>
     </card>
@@ -1104,7 +1104,7 @@ This turn, whenever you activate a manifest ability of a patient, draw a card.</
       <tablerow>1</tablerow>
       <text>+1 Action
 Each opponent creates a Plagued Patient copy in their wheel.
-Manifest — 4 Alchemy — Void this. If you do, create a Accurate Assistant copy in your wheel.</text>
+Manifest — 4 Alchemy — Create a Accurate Assistant copy in your wheel.</text>
       <related>Accurate Assistant</related>
       <related>Plagued Patient</related>
     </card>
