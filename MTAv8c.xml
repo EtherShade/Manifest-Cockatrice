@@ -1,0 +1,1155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>MTA</name>
+      <longname>Manifest Alpha</longname>
+      <settype>Manifest</settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Assistant</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Normal</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+2 Actions
+Starting 2</text>
+    </card>
+    <card>
+      <name>Scrap Coin</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Normal - Coin</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Action
++1 Money
+Starting 4</text>
+    </card>
+    <card>
+      <name>Judge</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Normal</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Action
++1 Money
+Void a card you have in play.</text>
+    </card>
+    <card>
+      <name>Shopkeep</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Normal</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Action
++1 Buy
+Starting 2</text>
+    </card>
+    <card>
+      <name>Lead Coin</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Normal - Coin</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+3 Money</text>
+    </card>
+    <card>
+      <name>Copper Coin</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Normal - Coin</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Action
++2 Money</text>
+    </card>
+    <card>
+      <name>Goal of Economy</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Goal</type>
+        <maintype>Goal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may pay 5 buys. If you do, achieve this goal. This threshold increases by 2 for each other goal you’ve achieved this game.</text>
+    </card>
+    <card>
+      <name>Goal of Wealth</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Goal</type>
+        <maintype>Goal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may pay 10 Money. If you do, achieve this goal. This threshold increases by 5 for each other goal you’ve achieved this game.</text>
+    </card>
+    <card>
+      <name>Goal of Progress</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Goal</type>
+        <maintype>Goal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may pay 5 actions. If you do, achieve this goal. This threshold increases by 2 for each other goal you’ve achieved this game.</text>
+    </card>
+    <card>
+      <name>Goal of Filth</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Goal</type>
+        <maintype>Goal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may void 10 cards with cost {2} or less from your hand and wheel. If you do, achieve this goal. This threshold increases by 5 for each other goal you’ve achieved this game.</text>
+    </card>
+    <card>
+      <name>Skilled Assistant</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Normal</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+2 Actions
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Iron Coin</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Normal - Coin</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+4 Money</text>
+    </card>
+    <card>
+      <name>Silver Coin</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Normal - Coin</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Action
++3 Money</text>
+    </card>
+    <card>
+      <name>Gold Coin</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>Normal - Coin</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Action
++4 Money</text>
+    </card>
+    <card>
+      <name>Platinum Coin</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>8</manacost>
+        <cmc>8</cmc>
+        <type>Normal - Coin</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Action
++5 Money</text>
+    </card>
+    <card>
+      <name>Fool&apos;s Coin</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Normal - Coin</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Money
+Void this.
+Starting 2</text>
+    </card>
+    <card>
+      <name>Philosopher</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Normal</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Draw two cards, then discard a card.</text>
+    </card>
+    <card>
+      <name>Jury</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Normal</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Action
++1 Buy
++2 Money for each card you’ve voided this turn.</text>
+    </card>
+    <card>
+      <name>Executioner</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Normal</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Action
+Void up to three cards you have in play. +1 Money for each of them.</text>
+    </card>
+    <card>
+      <name>Goal of Ingenuity</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Goal</type>
+        <maintype>Goal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>If you have 11 or more other cards in play, achieve this goal. This threshold increases by 5 for each other goal you’ve achieved this game.</text>
+    </card>
+    <card>
+      <name>Diviner</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Normal</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Action
++1 Money
+Choose one —
+• Look at the top card of your deck.
+• Name a card. Reveal the top card of your deck. If the named card is revealed, put it into your hand.</text>
+    </card>
+    <card>
+      <name>Banker</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Normal</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Action
++1 Buy
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Tin Coin</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Normal - Coin</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+2 Money
+Starting 1</text>
+    </card>
+    <card>
+      <name>Steel Coin</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Normal - Coin</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+5 Money</text>
+    </card>
+    <card>
+      <name>Messenger</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Normal</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Action
+Put a card from your wheel into your hand. If you can’t, draw a card.</text>
+    </card>
+    <card>
+      <name>Courier</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Normal</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Action
+Put up to two cards from your wheel on top of your deck.</text>
+    </card>
+    <card>
+      <name>Oracle</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Normal</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Action
+Look at the top three cards of your deck. Put one of them into your hand and the rest back on top in any order.</text>
+    </card>
+    <card>
+      <name>Fortune Teller</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Normal</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Action
++1 Money
+Name a card. Reveal the top card of your deck. If the named card is revealed, put it into your hand.</text>
+    </card>
+    <card>
+      <name>Forceful Procurer</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Normal - Attack</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Each opponent puts a card from their hand into your wheel.</text>
+    </card>
+    <card>
+      <name>Bureaucrat</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Normal - Attack Duration</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Choose one —
+• You don’t pay taxes this turn.
+• Each opponent’s tax is increased by 1 until the start of your next turn.</text>
+    </card>
+    <card>
+      <name>Guardian</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Normal - Duration</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Action
+Draw a card.
+Until the start of your next turn, attack cards don’t effect you.</text>
+    </card>
+    <card>
+      <name>Goal of Efficiency</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Goal</type>
+        <maintype>Goal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Draw two cards. If this made you shuffle, achieve this goal.</text>
+    </card>
+    <card>
+      <name>Hired Assistant</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Normal</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When you buy this, +5 Debt.
++2 Actions
++1 Debt
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Master Assistant</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>7</manacost>
+        <cmc>7</cmc>
+        <type>Normal</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+2 Actions
+Draw two cards.</text>
+    </card>
+    <card>
+      <name>Accurate Assistant</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Normal</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+2 Actions
+Look at the top two cards of your deck. Put one of them into your wheel and one of them into your hand.</text>
+    </card>
+    <card>
+      <name>Junk Dealer</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Normal</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Action
+Create three Scrap Coin copies in your hand.</text>
+      <related>Scrap Coin</related>
+    </card>
+    <card>
+      <name>Raw Lead</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Normal - Material</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Action
+Manifest — 2 Smithing — Void this. If you do, create a Lead Coin copy in your hand.
+Manifest — 5 Alchemy — Void this. If you do, create a Gold Coin copy in your hand.</text>
+      <related>Lead Coin</related>
+      <related>Gold Coin</related>
+    </card>
+    <card>
+      <name>Simple Concoction</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Normal</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Action
++1 Alchemy
+Draw a card, then discard a card.
+Starting 4</text>
+    </card>
+    <card>
+      <name>Scrap Heap</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Normal - Material</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Action
+Manifest — 1 Smithing — Void this. If you do, create a Tin Coin copy in your hand.
+Manifest — 3 Alchemy — Void this. If you do, create an Iron Coin copy in your hand.</text>
+      <related>Tin Coin</related>
+      <related>Iron Coin</related>
+    </card>
+    <card>
+      <name>Campfire</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Normal</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Action
++1 Smithing
+Draw a card, then discard a card.
+Starting 4</text>
+    </card>
+    <card>
+      <name>Jester</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Normal</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may play a normal card from your hand twice.</text>
+    </card>
+    <card>
+      <name>Skilled Jester</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>Normal</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may play a normal card from your hand three times.</text>
+    </card>
+    <card>
+      <name>Master Jester</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>9</manacost>
+        <cmc>9</cmc>
+        <type>Normal</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may play a normal card from your hand four times.</text>
+    </card>
+    <card>
+      <name>Slow Jester</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Normal - Duration</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the start of your next turn, you may play a normal card from your hand twice.</text>
+    </card>
+    <card>
+      <name>Skilled Slow Jester</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Normal - Duration</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the start of your next turn, you may play a normal card from your hand three times.</text>
+    </card>
+    <card>
+      <name>Master Slow Jester</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>8</manacost>
+        <cmc>8</cmc>
+        <type>Normal - Duration</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the start of your next turn, you may play a normal card from your hand four times.</text>
+    </card>
+    <card>
+      <name>Library</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>Normal</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Action.
+Draw two cards.</text>
+    </card>
+    <card>
+      <name>Diseased Patient</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Normal - Patient</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Action
++1 Money
+Manifest — 2 Alchemy — Void this. If you do, create a Skilled Assistant copy in your wheel.
+Starting 1</text>
+      <related>Skilled Assistant</related>
+    </card>
+    <card>
+      <name>Goal of Court</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Goal</type>
+        <maintype>Goal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>If you have 10 or more cards in your void, achieve this goal. This threshold increases by 5 for each other goal you’ve achieved this game.</text>
+    </card>
+    <card>
+      <name>Treasurer</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Normal</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Action
+This turn, whenever you would get Money, you get twice that much Money instead.</text>
+    </card>
+    <card>
+      <name>Alchemist</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Normal</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Action
+This turn, whenever you would get Alchemy, you get twice that much Alchemy instead.</text>
+    </card>
+    <card>
+      <name>Blacksmith</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Normal</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Action
+This turn, whenever you would get Smithing, you get twice that much Smithing instead.</text>
+    </card>
+    <card>
+      <name>Blacksmith&apos;s Guild</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>Project</type>
+        <maintype>Project</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you would get Smithing, you get twice that much Smithing instead.</text>
+    </card>
+    <card>
+      <name>Alchemist&apos;s Guild</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>Project</type>
+        <maintype>Project</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you would get Alchemy, you get twice that much Alchemy instead.</text>
+    </card>
+    <card>
+      <name>Enduring Assistant</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>Normal - Duration</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Now and the start of your next turn: +2 Actions. Draw a card.</text>
+    </card>
+    <card>
+      <name>Bank</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Normal</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Action
+Draw a card.
+Void any number of coins from your hand. If the number of coins you voided was —
+0 — Create a Scrap Coin copy in your hand.
+1 — Create a Half Coin copy in your hand.
+2 — Create a Copper Coin copy in your hand.
+3 — Create a Silver Coin copy in your hand.
+4 — Create a Gold Coin copy in your hand.
+5 — Create a Platinum Coin copy in your hand.</text>
+      <related>Scrap Coin</related>
+      <related>Half Coin</related>
+      <related>Copper Coin</related>
+      <related>Silver Coin</related>
+      <related>Gold Coin </related>
+      <related>Platinum Coin</related>
+    </card>
+    <card>
+      <name>Archive Scrap Coin</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Normal - Coin</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Action
++1 Money
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Archive Copper Coin</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>Normal - Coin</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Action
++2 Money
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Archive Silver Coin</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>8</manacost>
+        <cmc>8</cmc>
+        <type>Normal - Coin</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Action
++3 Money
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Archive Gold Coin</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>9</manacost>
+        <cmc>9</cmc>
+        <type>Normal - Coin</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Action
++4 Money
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Archive Platinum Coin</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>11</manacost>
+        <cmc>11</cmc>
+        <type>Normal - Coin</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Action
++5 Money
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Goal of Archive</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Goal</type>
+        <maintype>Goal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>If you’ve drawn 6 or more cards this turn, achieve this goal. This threshold increases by 3 for each other goal you’ve achieved this game.</text>
+    </card>
+    <card>
+      <name>Scrap Peddler</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Normal - Attack</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Action
+Draw a card.
+Each other player creates a Scrap Coin copy in their wheel.</text>
+      <related>Scrap Voin</related>
+    </card>
+    <card>
+      <name>Useful Assistant</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Normal</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+3 Actions
+Starting 1</text>
+    </card>
+    <card>
+      <name>Useful Skilled Assistant</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Normal</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+3 Actions
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Useful Accurate Assistant</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>Normal</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+3 Actions
+Look at the top two cards of your deck. Put one of them into your wheel and one of them into your hand.</text>
+    </card>
+    <card>
+      <name>Useful Enduring Assistant</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>7</manacost>
+        <cmc>7</cmc>
+        <type>Normal - Duration</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Now and the start of your next turn: +3 Actions. Draw a card.</text>
+    </card>
+    <card>
+      <name>Useful Master Assistant</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>8</manacost>
+        <cmc>8</cmc>
+        <type>Normal</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+3 Actions
+Draw two cards.</text>
+    </card>
+    <card>
+      <name>Ultimate Assistant</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>12</manacost>
+        <cmc>12</cmc>
+        <type>Normal</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+3 Actions
+Draw three cards.</text>
+    </card>
+    <card>
+      <name>Private Investigator</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Normal - Attack</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Action
+Choose one —
+• Choose a card in a shop of an affected player costing up to {4}. That card’s owner voids it.
+• Choose a card in a void of an affected player. Put that card into your wheel.</text>
+    </card>
+    <card>
+      <name>Street Rat</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Normal</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Action
+You may void this. If you do, gain an attack card from a shop costing up to {5}.</text>
+    </card>
+    <card>
+      <name>Innovative Concoction</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Normal</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Action
++2 Alchemy
+Draw two cards, then discard two cards.</text>
+    </card>
+    <card>
+      <name>Fire Pit</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Normal</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Action
++2 Smithing
+You may void a card from your hand.
+Starting 4</text>
+    </card>
+    <card>
+      <name>Forge</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Normal</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Action
++4 Smithing
+Starting 4</text>
+    </card>
+    <card>
+      <name>Medicinal Concoction</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Normal</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Action
++2 Alchemy
+This turn, whenever you activate a manifest ability of a patient, draw a card.</text>
+    </card>
+    <card>
+      <name>Plagued Patient</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Normal - Attack Patient</type>
+        <maintype>Normal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1 Action
+Each opponent creates a Plagued Patient copy in their wheel.
+Manifest — 4 Alchemy — Void this. If you do, create a Accurate Assistant copy in your wheel.</text>
+      <related>Accurate Assistant</related>
+      <related>Plagued Patient</related>
+    </card>
+    <card>
+      <name>Goal of Transmutation</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Goal</type>
+        <maintype>Goal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>If you have 4 or more cards with manifest abilities in your void, achieve this goal. This threshold increases by 2 for each other goal you’ve achieved this game.</text>
+    </card>
+    <card>
+      <name>Goal of Alchemy</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Goal</type>
+        <maintype>Goal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may pay 9 Alchemy. If you do, achieve this goal. This threshold increases by 4 for each other goal you’ve achieved this game.</text>
+    </card>
+    <card>
+      <name>Goal of Craftsmanship</name>
+      <set rarity="common">MTA</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Goal</type>
+        <maintype>Goal</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may pay 9 Smithing. If you do, achieve this goal. This threshold increases by 4 for each other goal you’ve achieved this game.</text>
+    </card>
+
+    <!-->Tokens</-->
+
+
+  </cards>
+</cockatrice_carddatabase>
