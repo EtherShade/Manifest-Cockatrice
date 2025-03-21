@@ -1058,8 +1058,7 @@ Draw two cards, then discard two cards.</text>
       <tablerow>1</tablerow>
       <text>+1 Action
 +2 Smithing
-You may void a card from your hand.
-Starting 4</text>
+You may void a card from your hand.</text>
     </card>
     <card>
       <name>Forge</name>
@@ -1073,8 +1072,7 @@ Starting 4</text>
       </prop>
       <tablerow>1</tablerow>
       <text>+1 Action
-+4 Smithing
-Starting 4</text>
++4 Smithing</text>
     </card>
     <card>
       <name>Medicinal Concoction</name>
